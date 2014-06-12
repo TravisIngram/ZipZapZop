@@ -5,7 +5,7 @@ require 'zipzapzop/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "zipzapzop"
-  spec.version       = Zipzapzop::VERSION
+  spec.version       = ZipZapZop::VERSION
   spec.authors       = ["John Davison"]
   spec.email         = ["john@codeunion.io"]
   spec.summary       = "Play my game..."

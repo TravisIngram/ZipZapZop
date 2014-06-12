@@ -1,3 +1,3 @@
-module Zipzapzop
-  VERSION = "0.0.1"
+class ZipZapZop
+  VERSION = "0.0.2"
 end
