@@ -19,7 +19,7 @@ Or install it yourself as:
 ## Usage
 
 ```
-  game = Zip::Zapzop.new
+  game = Zapzop.new
 ```
 
 
